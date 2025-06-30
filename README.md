@@ -9,6 +9,7 @@
 💡 Apaixonado por tecnologia e em busca da minha primeira oportunidade na área.
 
 🚀 Focado em aprender e contribuir com projetos inovadores.
+
 ---
 ## 🌐 Socials:
 
