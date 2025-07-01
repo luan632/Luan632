@@ -29,7 +29,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias:
+### 🤖 Linguagens & Tecnologias:
 
 <img 
     align="left" 
@@ -93,7 +93,7 @@
 
 ---
 
-### 📊 Estatísticas:
+### 📊 Estatísticas GitHub:
 <p>
   <img 
     align="left" 
