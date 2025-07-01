@@ -89,25 +89,27 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
-<img 
-    align="right" 
-    alt="Anime GIF" 
-    title="Anime GIF" 
-    width="150px" 
-    style="padding-right: 10px;"
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk0ZG12Z2loM2F5eWw0bzc5ZWNmZTF1eWwwNjdoMmxhZmFwYXAxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif"
-/>
-
-
+<div style="text-align: right; margin: 20px 0;">
+    <img 
+        alt="Anime GIF" 
+        title="Anime GIF" 
+        width="170px" 
+        style="display: inline-block; vertical-align: middle;" 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMzOXNkYXhxeWd1bWQ2bHBiYXFxMDQ4azN1ZDcxazVuYzVjOTF1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z679ITUbZTodxmd9d/giphy.gif"
+    />
+</div>
 <br/>
 <br/>
+
+
+---
 
 ### 📊 Estatísticas:
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luan632&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
