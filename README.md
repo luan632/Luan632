@@ -89,13 +89,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
     />
-    <img 
-    alt="Anime GIF" 
-    title="Anime GIF" 
-    width="170px" 
-    style="float: right; margin-left: 10px; vertical-align: middle;" 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMzOXNkYXhxeWd1bWQ2bHBiYXFxMDQ4azN1ZDcxazVuYzVjOTF1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z679ITUbZTodxmd9d/giphy.gif"
-/>
 <br/>
 <br/>
 
