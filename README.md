@@ -111,3 +111,9 @@
   />
 
 </p>
+
+---
+
+### 🐍 Contribuições no GitHub:
+
+![Snake animation](https://github.com/luan632/luan632/blob/output/github-contribution-grid-snake.svg)
