@@ -109,11 +109,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  ![Snake animation](https://github.com/luan632/luan632/blob/output/github-contribution-grid-snake.svg)
+
 
 </p>
-
----
-
-### 🐍 Contribuições no GitHub:
-
-![Snake animation](https://github.com/luan632/luan632/blob/output/github-contribution-grid-snake.svg)
