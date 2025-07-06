@@ -1,7 +1,5 @@
 ## 👨‍💻 Olá, eu sou Luan Oliveira de Holanda
 
-**'Desenvolvedor junior'** 
-
 📍 Natural do Piauí | 🎓 Cursando Análise e Desenvolvimento de Sistemas (4º período) na Uninassau (Parnaíba-PI)
 
 💡 Apaixonado por tecnologia e em busca da minha primeira oportunidade na área
