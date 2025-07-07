@@ -7,7 +7,11 @@
 🚀 Focado em aprender e contribuir com projetos inovadores
 
 ---
-## 🌐 Socials:
+
+### 📌 Sobre mim
+
+---
+## 🌐 Sociais:
 
 <p align="left">
   <a href="https://www.instagram.com/holanda3140/">
