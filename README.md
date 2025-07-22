@@ -98,7 +98,7 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ---
 
 ### 📊 Estatísticas GitHub:
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -107,12 +107,11 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
     src="https://github-readme-stats.vercel.app/api?username=luan632&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
 
