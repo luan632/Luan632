@@ -61,11 +61,11 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 />
 <img 
     align="left" 
-    alt="Vue.js"
-    title="Vue.js"
+    alt="React"
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img 
     align="left" 
@@ -90,7 +90,7 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-    />
+/>
 <br/>
 <br/>
 
