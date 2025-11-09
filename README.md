@@ -10,7 +10,7 @@
 
 ### 📌 Sobre mim:
 
-Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Python e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
+Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Laravel, Php e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
 
 ---
 ## 🌐 Sociais:
@@ -66,14 +66,6 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
