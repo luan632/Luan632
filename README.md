@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Sobre mim:
-<img align="right" alt="Developer GIF" height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer GIF" width="130" style="border-radius: 10px; opacity: 0.9;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Laravel, Php e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
 
