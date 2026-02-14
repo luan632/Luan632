@@ -33,13 +33,12 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="200px" width="150px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="50px" width="150px" align="right">
 </p>
 
 <p align="center">
   <i>💬 Vamos trocar ideias! Me adicione nas redes acima e vamos conversar.</i>
 </p>
-
 <br clear="right"/>
 
 ---
