@@ -9,6 +9,7 @@
 ---
 
 ### 📌 Sobre mim:
+<img align="right" alt="Developer GIF" height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Laravel, Php e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
 
@@ -106,20 +107,16 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ---
 
 ### 📊 Estatísticas GitHub:
-<div>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luan632&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan632&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
+  <a href="https://github.com/luan632">
+  </a>
 </div>
 
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=luan632&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=luan632&theme=github-dark&area=true&hide_border=true"/>
+</div>
