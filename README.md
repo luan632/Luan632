@@ -14,23 +14,33 @@
 Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Laravel, Php e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
 
 ---
-## 🌐 Sociais:
 
-<p align="left">
-  <a href="https://www.instagram.com/holanda3140/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+## 🌐 **Conecte-se comigo**
+
+<p align="center">
+  <a href="https://www.instagram.com/holanda3140/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" height="35">
   </a>
-  <a href="https://www.linkedin.com/in/luan-holanda-515211270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/luan-holanda-515211270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" height="35">
   </a>
-  <a href="https://discord.com/users/leviholanda.">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://discord.com/users/leviholanda." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord" height="35">
   </a>
-  <a href="mailto:holandaluan38@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:holandaluan38@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" height="35">
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="200px" width="150px" align="right">
+</p>
+
+<p align="center">
+  <i>💬 Vamos trocar ideias! Me adicione nas redes acima e vamos conversar.</i>
+</p>
+
+<br clear="right"/>
 
 ---
 
@@ -102,7 +112,6 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 />
 <br/>
 <br/>
-
 
 ---
 
