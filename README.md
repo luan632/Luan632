@@ -46,7 +46,7 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ### 🚀 **Linguagem & Tecnologia**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=300&lines=Front-end+Development;Mobile+Development;Back-end+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=6A5ACD&center=true&vCenter=true&width=300&lines=Front-end+Developer;Mobile+Developer;Back-end+Developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
