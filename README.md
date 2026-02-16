@@ -17,74 +17,54 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 
 ## 🌐 **Conecte-se comigo**
 
+
+
+<!-- Ícones em linha única com nomes abaixo -->
 <div align="center">
+  <br>
   
-  <!-- Cards com ícones elegantes -->
+  <!-- Tabela para garantir alinhamento perfeito em linha única -->
   <table>
     <tr>
-      <td align="center" width="200">
-        <a href="https://www.instagram.com/holanda3140/" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #833ab4, #fd1d1d, #fcaf45); padding: 20px; border-radius: 20px; margin: 10px; transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1);" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 24px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" style="filter: brightness(0) invert(1);"/>
-            <br>
-            <span style="color: white; font-weight: 600; font-size: 16px;">Instagram</span>
-            <br>
-            <span style="color: rgba(255,255,255,0.9); font-size: 12px;">@holanda3140</span>
-          </div>
+      <td align="center" width="150">
+        <a href="https://www.instagram.com/holanda3140/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: linear-gradient(45deg, #f09433, #d62976, #962fbf); padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
         </a>
+        <br>
+        <strong>Instagram</strong>
       </td>
-      <td align="center" width="200">
-        <a href="https://www.linkedin.com/in/luan-holanda-515211270/" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #0077b5, #00a0dc); padding: 20px; border-radius: 20px; margin: 10px; transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1);" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 24px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45" style="filter: brightness(0) invert(1);"/>
-            <br>
-            <span style="color: white; font-weight: 600; font-size: 16px;">LinkedIn</span>
-            <br>
-            <span style="color: rgba(255,255,255,0.9); font-size: 12px;">Luan Holanda</span>
-          </div>
+      <td align="center" width="150">
+        <a href="https://www.linkedin.com/in/luan-holanda-515211270/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #0077b5; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
         </a>
+        <br>
+        <strong>LinkedIn</strong>
       </td>
-      <td align="center" width="200">
-        <a href="https://discord.com/users/leviholanda." target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #5865f2, #7289da); padding: 20px; border-radius: 20px; margin: 10px; transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1);" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 24px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="45" height="45" style="filter: brightness(0) invert(1);"/>
-            <br>
-            <span style="color: white; font-weight: 600; font-size: 16px;">Discord</span>
-            <br>
-            <span style="color: rgba(255,255,255,0.9); font-size: 12px;">leviholanda.</span>
-          </div>
+      <td align="center" width="150">
+        <a href="https://discord.com/users/leviholanda." target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #5865f2; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
         </a>
+        <br>
+        <strong>Discord</strong>
       </td>
-      <td align="center" width="200">
-        <a href="mailto:holandaluan38@gmail.com" target="_blank" style="text-decoration: none;">
-          <div style="background: linear-gradient(135deg, #d14836, #e06b5a); padding: 20px; border-radius: 20px; margin: 10px; transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1);" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 24px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.2)';">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="45" height="45" style="background: transparent;"/>
-            <br>
-            <span style="color: white; font-weight: 600; font-size: 16px;">Gmail</span>
-            <br>
-            <span style="color: rgba(255,255,255,0.9); font-size: 12px; background: rgba(255,255,255,0.2); padding: 3px 10px; border-radius: 20px; display: inline-block; margin-top: 5px;">holandaluan38</span>
-          </div>
+      <td align="center" width="150">
+        <a href="mailto:holandaluan38@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #ea4335; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
         </a>
+        <br>
+        <strong>Gmail</strong>
       </td>
     </tr>
   </table>
 
-</div>
+  <!-- Linha decorativa sutil -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="50px" width="150px" align="right">
-
-  <!-- Frase com efeito de digitação -->
-  <p>
+  <!-- Mensagem animada -->
+  <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&lines=Vamos+conversar!;Me+adicione+nas+redes+sociais;Fique+a+vontade+para+me+chamar" alt="Typing SVG" />
   </p>
-  
-  <i>💬 Vamos trocar ideias! Me adicione nas redes acima e vamos conversar.</i>
-
 </div>
-
-<br clear="right"/>
 
 ---
 
