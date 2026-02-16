@@ -1,3 +1,5 @@
+pode arrumar a posição dos icones de "Linguagem & Tecnologia" eles centralizar 
+
 ## 👨‍💻 Olá, eu sou Luan Oliveira de Holanda
 
 📍 Natural do Piauí | 🎓 Formado Análise e Desenvolvimento de Sistemas na Uninassau (Parnaíba-PI)
@@ -16,8 +18,6 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ---
 
 ## 🌐 **Conecte-se comigo**
-
-
 
 <!-- Ícones em linha única com nomes abaixo -->
 <div align="center">
@@ -78,23 +78,23 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
   
 ### 🎨 Front-end
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</div>
 
 ### 📱 Mobile
 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</div>
 
 ### ⚙️ Back-end
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</div>
 
 <br>
-
 </div>
 
 <br/>
