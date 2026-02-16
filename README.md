@@ -1,5 +1,3 @@
-pode arrumar a posição dos icones de "Linguagem & Tecnologia" eles centralizar 
-
 ## 👨‍💻 Olá, eu sou Luan Oliveira de Holanda
 
 📍 Natural do Piauí | 🎓 Formado Análise e Desenvolvimento de Sistemas na Uninassau (Parnaíba-PI)
