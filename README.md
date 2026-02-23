@@ -89,7 +89,7 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ### ⚙️ Back-end
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,node.js" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </div>
 
 <br>
