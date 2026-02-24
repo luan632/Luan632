@@ -89,12 +89,10 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 ### ⚙️ Back-end
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" />
 </div>
 
-<br>
-</div>
-
+<br/>
 <br/>
 
 <div align="center">
@@ -104,7 +102,6 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 </div>
 
 <br/>
-
 ---
 
 ### 📊 Estatísticas GitHub:
