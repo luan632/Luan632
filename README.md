@@ -60,7 +60,7 @@ Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no b
 
   <!-- Mensagem animada -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&lines=Vamos+conversar!;Me+adicione+nas+redes+sociais;Fique+a+vontade+para+me+chamar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&lines=Vamos+conversar!;Me+adicione+nas+redes+sociais;Fique+a+vontade+para+me+chamar" alt="Typing SVG" />
   </p>
 </div>
 
