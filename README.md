@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=850&lines=Olá%2C+eu+sou+Luan+Oliveira+de+Holanda;Formado+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+em+Tecnologia+e+Inovação;Explorando+Backend%2C+APIs+e+Frontend"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=850&lines=Olá%2C+eu+sou+Luan+Oliveira+de+Holanda;Formado+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+em+Tecnologia+e+Inovação;Explorando+Backend%2C+Frontend+e+Apis"/>
 
 </div>
 
