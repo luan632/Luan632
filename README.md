@@ -1,17 +1,17 @@
-## 👨‍💻 Olá, eu sou Luan Oliveira de Holanda
+<!-- Cabeçalho animado azul -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=140&section=header&text=👨‍💻+Luan+Holanda&fontSize=36&fontColor=FFFFFF&animation=twinkle"/>
 
-📍 Natural do Piauí | 🎓 Formado Análise e Desenvolvimento de Sistemas na Uninassau (Parnaíba-PI)
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=850&lines=Olá%2C+eu+sou+Luan+Oliveira+de+Holanda;Formado+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+em+Tecnologia+e+Inovação;Explorando+Backend%2C+APIs+e+Frontend"/>
 
-💡 Apaixonado por tecnologia e em busca da minha primeira oportunidade na área
+</div>
 
-🚀 Focado em aprender e contribuir com projetos inovadores
-
----
 
 ### 📌 Sobre mim:
 <img align="right" alt="Developer GIF" width="130" style="border-radius: 10px; opacity: 0.9;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Sou um desenvolvedor em formação, com interesse tanto no front-end quanto no back-end, explorando desde a criação de interfaces interativas até a lógica e estrutura dos sistemas. Atualmente, estou me dedicando ao aprendizado de tecnologias como Dart, Flutter, Laravel, Php e HTML, buscando oportunidades para aplicar meus conhecimentos em projetos reais e me tornar um profissional completo e versátil.
+Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-end, atuando desde a criação de interfaces interativas até a definição da lógica e da estrutura dos sistemas. Atualmente, dedico-me ao aprendizado de tecnologias como Dart, Flutter, Laravel, PHP e HTML, e busco oportunidades para aplicar meus conhecimentos em projetos reais, com o objetivo de me tornar um profissional completo e versátil.
 
 ---
 
