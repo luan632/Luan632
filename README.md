@@ -98,6 +98,7 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 </div>
 
 <br/>
+
 ---
 
 ### 📊 Estatísticas GitHub:
