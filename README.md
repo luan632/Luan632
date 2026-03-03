@@ -7,7 +7,6 @@
 
 </div>
 
-
 ### 📌 Sobre mim:
 <img align="right" alt="Developer GIF" width="130" style="border-radius: 10px; opacity: 0.9;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -58,10 +57,7 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
   <!-- Linha decorativa sutil -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 
-  <!-- Mensagem animada -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=400&lines=Vamos+conversar!;Me+adicione+nas+redes+sociais;Fique+a+vontade+para+me+chamar" alt="Typing SVG" />
-  </p>
+
 </div>
 
 ---
