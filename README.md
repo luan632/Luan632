@@ -111,11 +111,3 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 <img src="https://streak-stats.demolab.com?user=luan632&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/luan632/luan632/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
