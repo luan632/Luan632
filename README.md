@@ -103,15 +103,14 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 
 ### 📊 Estatísticas GitHub:
 
-<div align="center">
-  <a href="https://github.com/luan632">
-  </a>
-</div>
+# 📈 GitHub Stats
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=luan632&theme=dark&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=luan632&theme=github-dark&area=true&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luan632&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luan632&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=WalefyHG)
+
 </div>
