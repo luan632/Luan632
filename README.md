@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=850&lines=Olá%2C+eu+sou+Luan+Oliveira+de+Holanda;Formado+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+em+Tecnologia+e+Inovação;Explorando+Backend%2C+Frontend+e+Apis"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00A8FF&center=true&vCenter=true&width=850&lines=Olá%2C+eu+sou+Luan+Oliveira+de+Holanda;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Inovação;Explorando+Backend%2C+Frontend+e+APIs"/>
 
 </div>
 
@@ -16,37 +16,35 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 
 ## 🌐 **Conecte-se comigo**
 
-<!-- Ícones em linha única com nomes abaixo -->
 <div align="center">
   <br>
   
-  <!-- Tabela para garantir alinhamento perfeito em linha única -->
   <table>
     <tr>
       <td align="center" width="150">
         <a href="https://www.instagram.com/holanda3140/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: linear-gradient(45deg, #f09433, #d62976, #962fbf); padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: linear-gradient(45deg, #f09433, #d62976, #962fbf); padding: 12px; border-radius: 50%;"/>
         </a>
         <br>
         <strong>Instagram</strong>
       </td>
       <td align="center" width="150">
         <a href="https://www.linkedin.com/in/luan-holanda-515211270/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #0077b5; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #0077b5; padding: 12px; border-radius: 50%;"/>
         </a>
         <br>
         <strong>LinkedIn</strong>
       </td>
       <td align="center" width="150">
         <a href="https://discord.com/users/leviholanda." target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #5865f2; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #5865f2; padding: 12px; border-radius: 50%;"/>
         </a>
         <br>
         <strong>Discord</strong>
       </td>
       <td align="center" width="150">
         <a href="mailto:holandaluan38@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #ea4335; padding: 12px; border-radius: 50%;" onmouseover="this.style.transform='translateY(-8px)'; this.style.filter='drop-shadow(0 12px 16px rgba(0,0,0,0.3))';" onmouseout="this.style.transform='translateY(0)'; this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.2))';"/>
+          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="55" height="55" style="transition: all 0.3s ease; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); background: #ea4335; padding: 12px; border-radius: 50%;"/>
         </a>
         <br>
         <strong>Gmail</strong>
@@ -54,9 +52,7 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
     </tr>
   </table>
 
-  <!-- Linha decorativa sutil -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
-
 
 </div>
 
@@ -103,14 +99,23 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 
 ### 📊 Estatísticas GitHub:
 
-# 📈 GitHub Stats
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luan632&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luan632&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WalefyHG)
+<br/>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=luan632&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/luan632/luan632/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
