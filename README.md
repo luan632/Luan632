@@ -101,13 +101,6 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luan632&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luan632&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"/>
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=luan632&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=luan632&theme=react&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
 
 </div>
