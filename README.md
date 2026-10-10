@@ -87,13 +87,6 @@ Sou um desenvolvedor full stack com interesse tanto no front-end quanto no back-
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Matrix Code Animation"/>
-  
-  ### ⚡ *Transformando linhas de código em soluções inovadoras* ⚡
-</div>
-
-<br/>
 
 ---
 
